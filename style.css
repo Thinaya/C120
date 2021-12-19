@@ -38,6 +38,7 @@ p{
   {
     font-size:30px;
     color:palevioletred;
+    font-family: 'Montserrat', sans-serif;
   }
 
   #mobilenet
@@ -50,10 +51,19 @@ border-radius: 20%;
   }
 
   ol{
-      background-color:wheat;
       font-family: 'Montserrat', sans-serif;
 font-family: 'Source Code Pro', monospace;
+font-size: 30px;
 border-radius: 15%;
 border-width: 5px;
 border-color:sandybrown;
+text-align:center;
+  }
+
+  #IMAGE {
+      width: 150px;
+      height: 150px;
+      border-width:10px;
+      border-color: grey;
+      border-radius: 20%;
   }
